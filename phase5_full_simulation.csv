@@ -1,0 +1,76 @@
+Product,Factory,Is_Current,Weighted_Avg_Distance_km,Current_Margin_Pct,Current_Orders
+Wonka Bar - Milk Chocolate,Lot's O' Nuts,False,1972.3,64.92,2137
+Wonka Bar - Milk Chocolate,Wicked Choccy's,True,1724.6,64.92,2137
+Wonka Bar - Milk Chocolate,Sugar Shack,False,1867.5,64.92,2137
+Wonka Bar - Milk Chocolate,Secret Factory,False,1448.5,64.92,2137
+Wonka Bar - Milk Chocolate,The Other Factory,False,1428.1,64.92,2137
+Wonka Bar - Triple Dazzle Caramel,Lot's O' Nuts,False,1923.0,65.33,2015
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,True,1793.4,65.33,2015
+Wonka Bar - Triple Dazzle Caramel,Sugar Shack,False,1884.9,65.33,2015
+Wonka Bar - Triple Dazzle Caramel,Secret Factory,False,1489.4,65.33,2015
+Wonka Bar - Triple Dazzle Caramel,The Other Factory,False,1466.4,65.33,2015
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,True,1935.1,71.35,1810
+Wonka Bar - Nutty Crunch Surprise,Wicked Choccy's,False,1758.4,71.35,1810
+Wonka Bar - Nutty Crunch Surprise,Sugar Shack,False,1848.3,71.35,1810
+Wonka Bar - Nutty Crunch Surprise,Secret Factory,False,1436.3,71.35,1810
+Wonka Bar - Nutty Crunch Surprise,The Other Factory,False,1425.3,71.35,1810
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,True,1960.5,69.44,2064
+Wonka Bar -Scrumdiddlyumptious,Wicked Choccy's,False,1754.5,69.44,2064
+Wonka Bar -Scrumdiddlyumptious,Sugar Shack,False,1884.1,69.44,2064
+Wonka Bar -Scrumdiddlyumptious,Secret Factory,False,1478.2,69.44,2064
+Wonka Bar -Scrumdiddlyumptious,The Other Factory,False,1457.3,69.44,2064
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,True,1974.8,66.67,1818
+Wonka Bar - Fudge Mallows,Wicked Choccy's,False,1722.6,66.67,1818
+Wonka Bar - Fudge Mallows,Sugar Shack,False,1878.1,66.67,1818
+Wonka Bar - Fudge Mallows,Secret Factory,False,1459.0,66.67,1818
+Wonka Bar - Fudge Mallows,The Other Factory,False,1431.3,66.67,1818
+Wonka Gum,Lot's O' Nuts,False,2075.7,52.0,120
+Wonka Gum,Wicked Choccy's,False,1514.6,52.0,120
+Wonka Gum,Sugar Shack,False,1844.0,52.0,120
+Wonka Gum,Secret Factory,True,1342.0,52.0,120
+Wonka Gum,The Other Factory,False,1270.8,52.0,120
+Kazookles,Lot's O' Nuts,False,2083.4,7.69,96
+Kazookles,Wicked Choccy's,False,1620.7,7.69,96
+Kazookles,Sugar Shack,False,2019.1,7.69,96
+Kazookles,Secret Factory,False,1580.9,7.69,96
+Kazookles,The Other Factory,True,1460.3,7.69,96
+Lickable Wallpaper,Lot's O' Nuts,False,2000.6,50.0,94
+Lickable Wallpaper,Wicked Choccy's,False,1783.8,50.0,94
+Lickable Wallpaper,Sugar Shack,False,1968.7,50.0,94
+Lickable Wallpaper,Secret Factory,True,1591.9,50.0,94
+Lickable Wallpaper,The Other Factory,False,1559.8,50.0,94
+Fizzy Lifting Drinks,Lot's O' Nuts,False,2163.2,60.0,6
+Fizzy Lifting Drinks,Wicked Choccy's,False,1375.0,60.0,6
+Fizzy Lifting Drinks,Sugar Shack,True,1712.6,60.0,6
+Fizzy Lifting Drinks,Secret Factory,False,1156.1,60.0,6
+Fizzy Lifting Drinks,The Other Factory,False,1151.7,60.0,6
+Laffy Taffy,Lot's O' Nuts,False,2562.6,62.31,10
+Laffy Taffy,Wicked Choccy's,False,942.8,62.31,10
+Laffy Taffy,Sugar Shack,True,1994.8,62.31,10
+Laffy Taffy,Secret Factory,False,1329.2,62.31,10
+Laffy Taffy,The Other Factory,False,1118.5,62.31,10
+SweeTARTS,Lot's O' Nuts,False,2398.8,46.67,10
+SweeTARTS,Wicked Choccy's,False,1155.6,46.67,10
+SweeTARTS,Sugar Shack,True,1607.5,46.67,10
+SweeTARTS,Secret Factory,False,995.3,46.67,10
+SweeTARTS,The Other Factory,False,1096.4,46.67,10
+Nerds,Lot's O' Nuts,False,3109.2,46.67,4
+Nerds,Wicked Choccy's,False,433.1,46.67,4
+Nerds,Sugar Shack,True,2091.5,46.67,4
+Nerds,Secret Factory,False,1308.9,46.67,4
+Nerds,The Other Factory,False,1089.0,46.67,4
+Hair Toffee,Lot's O' Nuts,False,1741.7,77.78,4
+Hair Toffee,Wicked Choccy's,False,2123.2,77.78,4
+Hair Toffee,Sugar Shack,False,2204.5,77.78,4
+Hair Toffee,Secret Factory,False,1944.7,77.78,4
+Hair Toffee,The Other Factory,True,1776.6,77.78,4
+Everlasting Gobstopper,Lot's O' Nuts,False,1623.3,80.0,3
+Everlasting Gobstopper,Wicked Choccy's,False,1977.1,80.0,3
+Everlasting Gobstopper,Sugar Shack,False,1754.1,80.0,3
+Everlasting Gobstopper,Secret Factory,True,1369.7,80.0,3
+Everlasting Gobstopper,The Other Factory,False,1342.2,80.0,3
+Fun Dip,Lot's O' Nuts,False,2366.9,40.0,3
+Fun Dip,Wicked Choccy's,False,927.8,40.0,3
+Fun Dip,Sugar Shack,True,1686.3,40.0,3
+Fun Dip,Secret Factory,False,949.3,40.0,3
+Fun Dip,The Other Factory,False,806.5,40.0,3

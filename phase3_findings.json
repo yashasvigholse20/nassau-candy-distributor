@@ -1,0 +1,33 @@
+{
+  "model_comparison": {
+    "Gradient Boosting": {
+      "RMSE": 260.072112,
+      "MAE": 214.010092,
+      "R2": 0.043597
+    },
+    "Linear Regression": {
+      "RMSE": 263.650802,
+      "MAE": 212.374308,
+      "R2": 0.017095
+    },
+    "Random Forest": {
+      "RMSE": 272.961505,
+      "MAE": 221.626842,
+      "R2": -0.053553
+    }
+  },
+  "best_model": "Gradient Boosting",
+  "top_10_features": {
+    "Order_Month": 0.1997,
+    "Order_DayOfWeek": 0.0863,
+    "Cost_Per_Unit": 0.0628,
+    "Cost": 0.0546,
+    "Gross Profit": 0.0541,
+    "Distance_km": 0.0511,
+    "Profit_Per_Unit": 0.0504,
+    "Order_Quarter": 0.0448,
+    "Revenue_Per_Unit": 0.0443,
+    "Sales": 0.0423
+  },
+  "key_finding": "Lead_Time shows weak dependency on operational variables (Product, Factory, Region, Ship Mode). Order_Month dominates feature importance, suggesting seasonal rather than routing-driven lead time variation. This justifies pivoting optimization focus toward profit and distance efficiency, which show stronger patterns in the data."
+}

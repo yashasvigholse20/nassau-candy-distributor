@@ -1,0 +1,21 @@
+Route,Orders,Avg_Lead_Time,Avg_Distance_km,Total_Sales,Total_Profit,Avg_Margin_Pct,Cluster,Cluster_Label
+Lot's O' Nuts -> Atlantic,1661,1326.83,3109.2,22166.13,15315.63,69.09,1,Core High-Volume
+Lot's O' Nuts -> Gulf,897,1313.98,2100.53,12023.12,8313.42,69.17,1,Core High-Volume
+Lot's O' Nuts -> Interior,1321,1324.2,1890.87,17856.86,12353.56,69.23,1,Core High-Volume
+Lot's O' Nuts -> Pacific,1813,1317.53,878.52,24294.04,16788.44,69.17,1,Core High-Volume
+Secret Factory -> Atlantic,72,1349.25,1308.88,2991.25,1499.85,51.03,2,Stable Mid-Volume
+Secret Factory -> Gulf,37,1332.54,1329.35,930.0,480.0,52.22,2,Stable Mid-Volume
+Secret Factory -> Interior,45,1289.09,209.56,1590.0,806.8,51.96,2,Stable Mid-Volume
+Secret Factory -> Pacific,63,1307.73,2570.3,3076.25,1558.05,51.37,2,Stable Mid-Volume
+Sugar Shack -> Atlantic,18,1375.39,2091.47,118.61,63.81,52.99,2,Stable Mid-Volume
+Sugar Shack -> Gulf,4,1091.25,2136.73,38.39,23.24,56.16,3,Long-Distance Niche
+Sugar Shack -> Interior,8,1318.62,830.57,44.74,23.39,51.12,2,Stable Mid-Volume
+Sugar Shack -> Pacific,3,1516.67,2294.99,19.24,10.79,56.33,2,Stable Mid-Volume
+The Other Factory -> Atlantic,38,1282.74,1089.03,506.75,54.75,9.54,0,High-Risk Low-Margin
+The Other Factory -> Gulf,19,1272.63,624.64,262.5,26.5,11.38,0,High-Risk Low-Margin
+The Other Factory -> Interior,11,1206.64,705.69,126.75,9.75,7.69,0,High-Risk Low-Margin
+The Other Factory -> Pacific,32,1307.22,2696.28,386.25,61.25,12.07,0,High-Risk Low-Margin
+Wicked Choccy's -> Atlantic,1197,1315.97,433.11,15414.5,10039.66,65.11,1,Core High-Volume
+Wicked Choccy's -> Gulf,663,1309.11,897.82,8993.25,5857.51,65.13,2,Stable Mid-Volume
+Wicked Choccy's -> Interior,950,1324.55,1452.45,12419.25,8088.99,65.12,1,Core High-Volume
+Wicked Choccy's -> Pacific,1342,1329.1,3580.91,18525.75,12067.41,65.13,1,Core High-Volume

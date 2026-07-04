@@ -1,0 +1,16 @@
+Product,Current_Factory,Current_Distance_km,Recommended_Factory,Recommended_Distance_km,Distance_Reduction_Pct,Current_Margin_Pct,Current_Total_Profit,Orders,Risk_Flag,Profit_At_Stake,Recommendation_Score,Action_Label
+Laffy Taffy,Sugar Shack,1994.8,Wicked Choccy's,942.8,52.7,62.31,33.48,10,Low Risk,33.48,0.65,Reassign
+Nerds,Sugar Shack,2091.5,Wicked Choccy's,433.1,79.3,46.67,7.0,4,Medium Risk,7.0,0.637,Reassign
+Wonka Bar - Nutty Crunch Surprise,Lot's O' Nuts,1935.1,The Other Factory,1425.3,26.3,71.35,16819.95,1810,Low Risk,16819.95,0.546,Reassign
+Fizzy Lifting Drinks,Sugar Shack,1712.6,The Other Factory,1151.7,32.8,60.0,47.25,6,Low Risk,47.25,0.544,Reassign
+Wonka Bar - Fudge Mallows,Lot's O' Nuts,1974.8,The Other Factory,1431.3,27.5,66.67,16593.6,1818,Low Risk,16593.6,0.538,Reassign
+Wonka Bar -Scrumdiddlyumptious,Lot's O' Nuts,1960.5,The Other Factory,1457.3,25.7,69.44,19357.5,2064,Low Risk,19357.5,0.537,Reassign
+Wonka Bar - Triple Dazzle Caramel,Wicked Choccy's,1793.4,The Other Factory,1466.4,18.2,65.33,18610.2,2015,Low Risk,18610.2,0.487,Keep Current (stable performer)
+Wonka Bar - Milk Chocolate,Wicked Choccy's,1724.6,The Other Factory,1428.1,17.2,64.92,17443.37,2137,Low Risk,17443.37,0.481,Keep Current (stable performer)
+Fun Dip,Sugar Shack,1686.3,The Other Factory,806.5,52.2,40.0,4.8,3,Medium Risk,4.8,0.481,Reassign
+Everlasting Gobstopper,Secret Factory,1369.7,The Other Factory,1342.2,2.0,80.0,104.0,3,Low Risk,104.0,0.45,Keep Current (stable performer)
+Hair Toffee,The Other Factory,1776.6,Lot's O' Nuts,1741.7,2.0,77.78,59.5,4,Low Risk,59.5,0.443,Keep Current (stable performer)
+SweeTARTS,Sugar Shack,1607.5,Secret Factory,995.3,38.1,46.67,28.7,10,Medium Risk,28.7,0.431,Reassign
+Wonka Gum,Secret Factory,1342.0,The Other Factory,1270.8,5.3,52.0,310.7,120,Low Risk,310.7,0.382,Keep Current (stable performer)
+Lickable Wallpaper,Secret Factory,1591.9,The Other Factory,1559.8,2.0,50.0,3930.0,94,Low Risk,3930.0,0.36,Keep Current (stable performer)
+Kazookles,The Other Factory,1460.3,Secret Factory,1580.9,-8.3,7.69,92.75,96,High Risk,92.75,-0.018,Reassign

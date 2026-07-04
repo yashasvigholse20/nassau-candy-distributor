@@ -1,0 +1,33 @@
+{
+  "total_products_simulated": 15,
+  "top_recommendation": {
+    "Product": "Laffy Taffy",
+    "Current_Factory": "Sugar Shack",
+    "Recommended_Factory": "Wicked Choccy's",
+    "Distance_Reduction_Pct": 52.7,
+    "Current_Margin_Pct": 62.31
+  },
+  "reassign_products": [
+    "Laffy Taffy",
+    "Nerds",
+    "Wonka Bar - Nutty Crunch Surprise",
+    "Fizzy Lifting Drinks",
+    "Wonka Bar - Fudge Mallows",
+    "Wonka Bar -Scrumdiddlyumptious",
+    "Fun Dip",
+    "SweeTARTS",
+    "Kazookles"
+  ],
+  "keep_current_products": [
+    "Wonka Bar - Triple Dazzle Caramel",
+    "Wonka Bar - Milk Chocolate",
+    "Everlasting Gobstopper",
+    "Hair Toffee",
+    "Wonka Gum",
+    "Lickable Wallpaper"
+  ],
+  "high_risk_products": [
+    "Kazookles"
+  ],
+  "key_finding": "Simulation identifies 4 Sugar Shack products (Nerds, Laffy Taffy, Fun Dip, Fizzy Lifting Drinks) as priority reassignment candidates with both distance reduction potential (32-79%) and margin headroom. A business-sense guardrail prevents recommending moves for already high-margin, low-distance-gain products. Only Kazookles (7.69% margin) is flagged High Risk."
+}

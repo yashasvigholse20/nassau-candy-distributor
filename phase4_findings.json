@@ -1,0 +1,76 @@
+{
+  "n_clusters": 4,
+  "cluster_labels": {
+    "0": "High-Risk Low-Margin",
+    "1": "Core High-Volume",
+    "2": "Stable Mid-Volume",
+    "3": "Long-Distance Niche"
+  },
+  "cluster_profiles": {
+    "0": {
+      "Avg_Margin_Pct": 10.17,
+      "Avg_Distance_km": 1278.9,
+      "Avg_Orders": 25.0
+    },
+    "1": {
+      "Avg_Margin_Pct": 67.43,
+      "Avg_Distance_km": 1920.8,
+      "Avg_Orders": 1312.0
+    },
+    "2": {
+      "Avg_Margin_Pct": 54.02,
+      "Avg_Distance_km": 1441.6,
+      "Avg_Orders": 114.0
+    },
+    "3": {
+      "Avg_Margin_Pct": 56.16,
+      "Avg_Distance_km": 2136.7,
+      "Avg_Orders": 4.0
+    }
+  },
+  "high_risk_routes": {
+    "The Other Factory -> Atlantic": {
+      "Orders": 38,
+      "Avg_Margin_Pct": 9.54,
+      "Avg_Distance_km": 1089.0
+    },
+    "The Other Factory -> Gulf": {
+      "Orders": 19,
+      "Avg_Margin_Pct": 11.38,
+      "Avg_Distance_km": 624.6
+    },
+    "The Other Factory -> Interior": {
+      "Orders": 11,
+      "Avg_Margin_Pct": 7.69,
+      "Avg_Distance_km": 705.7
+    },
+    "The Other Factory -> Pacific": {
+      "Orders": 32,
+      "Avg_Margin_Pct": 12.07,
+      "Avg_Distance_km": 2696.3
+    }
+  },
+  "slow_routes": {
+    "Sugar Shack -> Pacific": {
+      "Orders": 3,
+      "Avg_Lead_Time": 1516.67
+    },
+    "Sugar Shack -> Atlantic": {
+      "Orders": 18,
+      "Avg_Lead_Time": 1375.39
+    },
+    "Secret Factory -> Atlantic": {
+      "Orders": 72,
+      "Avg_Lead_Time": 1349.25
+    },
+    "Secret Factory -> Gulf": {
+      "Orders": 37,
+      "Avg_Lead_Time": 1332.54
+    },
+    "Wicked Choccy's -> Pacific": {
+      "Orders": 1342,
+      "Avg_Lead_Time": 1329.1
+    }
+  },
+  "key_finding": "The Other Factory routes form an isolated cluster with margins of 7.7%-12.1% -- roughly 5-9x lower than all other routes (51%-69%). This is independent of distance, confirming the margin erosion is structural to Kazookles' product cost base, not shipping distance. Product-level decomposition shows Hair Toffee (same factory) maintains 77.78% margin, confirming this is a single-product issue."
+}
