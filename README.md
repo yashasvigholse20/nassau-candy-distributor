@@ -6,6 +6,10 @@ A full end-to-end Business Analytics project that transforms static factory assi
 
 Nassau Candy Distributor assigns 15 confectionery products across 5 manufacturing factories. This project replaces legacy, rule-based assignments with an ML-powered simulation engine that recommends optimal factory–product configurations based on shipping distance and profitability.
 
+## 📸 Dashboard Preview
+
+![Dashboard Preview](Dashboard_Preview.png)
+
 ## 🎯 Business Problem
 
 - Products assigned to factories using outdated static rules
