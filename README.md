@@ -71,3 +71,6 @@ Nassau Candy Distributor assigns 15 confectionery products across 5 manufacturin
 - 21-page research paper (EDA, methodology, findings, recommendations)
 - Live Streamlit dashboard
 - 1-page executive summary for government stakeholders
+
+  Note: model_rf.pkl excluded from repo due to file size (55MB).
+Available on request. Dashboard runs on model_gb.pkl only.
